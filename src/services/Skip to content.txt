@@ -1,0 +1,1875 @@
+Skip to content
+[amadeus4dev/developer-guides](https://github.com/amadeus4dev/developer-guides)
+[amadeus4dev/developer-guides](https://github.com/amadeus4dev/developer-guides)
+- 
+      [Home](https://amadeus4dev.github.io/developer-guides/)
+
+- 
+      [Quick start](https://amadeus4dev.github.io/developer-guides/quick-start/)
+
+- 
+      [Pricing](https://amadeus4dev.github.io/developer-guides/pricing/)
+
+- 
+      [Free test data collection](https://amadeus4dev.github.io/developer-guides/test-data/)
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    API keys
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            API keys
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Authorization
+
+
+
+
+
+
+
+
+
+
+    Authorization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Table of contents
+
+
+
+
+
+    Requesting an access token
+
+
+
+
+
+
+    Response
+
+
+
+
+
+
+    Using the token
+
+
+
+
+
+
+    Managing tokens from your source code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      [Production](https://amadeus4dev.github.io/developer-guides/API-Keys/moving-to-production/)
+
+
+
+
+
+
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+    Authorization
+
+
+
+
+
+
+
+
+
+
+    Authorization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Table of contents
+
+
+
+
+
+    Requesting an access token
+
+
+
+
+
+
+    Response
+
+
+
+
+
+
+    Using the token
+
+
+
+
+
+  Managing tokens from your source code
+
+
+
+
+
+
+
+
+- 
+  Requesting an access token
+
+
+- 
+  Response
+
+
+- 
+  Using the token
+
+
+- 
+  Managing tokens from your source code
+
+
+- 
+      [Production](https://amadeus4dev.github.io/developer-guides/API-Keys/moving-to-production/)
+
+- 
+      [Rate limits](https://amadeus4dev.github.io/developer-guides/api-rate-limits/)
+
+- 
+      [Pagination](https://amadeus4dev.github.io/developer-guides/pagination/)
+
+- 
+      [Common errors](https://amadeus4dev.github.io/developer-guides/common-errors/)
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    API Tutorials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            API Tutorials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Flights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Destination experiences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Cars and Transfers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Market insights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Hotels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      [Itinerary management](https://amadeus4dev.github.io/developer-guides/resources/itinerary-managment/)
+
+
+
+
+
+
+
+
+
+- 
+      [Flights](https://amadeus4dev.github.io/developer-guides/resources/flights/)
+
+- 
+      [Destination experiences](https://amadeus4dev.github.io/developer-guides/resources/destination-experiences/)
+
+- 
+      [Cars and Transfers](https://amadeus4dev.github.io/developer-guides/resources/cars-transfers/)
+
+- 
+      [Market insights](https://amadeus4dev.github.io/developer-guides/resources/market-insight/)
+
+- 
+      [Hotels](https://amadeus4dev.github.io/developer-guides/resources/hotels/)
+
+- 
+      [Itinerary management](https://amadeus4dev.github.io/developer-guides/resources/itinerary-managment/)
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Developer tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Developer tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Node
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Java
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    PHP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    OpenAPI Generator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Postman collection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Mock Server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    GraphQL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            GraphQL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    GraphQL wrapper for REST (Node)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    GraphQL wrapper for REST (Python)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      [OpenAPI to GraphQL converter](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-export/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 
+      [Node](https://amadeus4dev.github.io/developer-guides/developer-tools/node/)
+
+- 
+      [Python](https://amadeus4dev.github.io/developer-guides/developer-tools/python/)
+
+- 
+      [Java](https://amadeus4dev.github.io/developer-guides/developer-tools/java/)
+
+- 
+      [PHP](https://amadeus4dev.github.io/developer-guides/developer-tools/php/)
+
+- 
+      [OpenAPI Generator](https://amadeus4dev.github.io/developer-guides/developer-tools/openapi-generator/)
+
+- 
+      [Postman collection](https://amadeus4dev.github.io/developer-guides/developer-tools/postman/)
+
+- 
+      [Mock Server](https://amadeus4dev.github.io/developer-guides/developer-tools/mock-server/)
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    GraphQL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            GraphQL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    GraphQL wrapper for REST (Node)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    GraphQL wrapper for REST (Python)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      [OpenAPI to GraphQL converter](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-export/)
+
+
+
+
+
+
+
+
+
+- 
+      [GraphQL wrapper for REST (Node)](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-node/)
+
+-
+
+[GraphQL wrapper for REST (Python)](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-python/)
+
+- 
+      [OpenAPI to GraphQL converter](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-export/)
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Examples and prototypes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Examples and prototypes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Code examples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Interactive examples
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      [Prototypes](https://amadeus4dev.github.io/developer-guides/examples/prototypes/)
+
+
+
+
+
+
+
+
+
+- 
+      [Code examples](https://amadeus4dev.github.io/developer-guides/examples/code-example/)
+
+- 
+      [Interactive examples](https://amadeus4dev.github.io/developer-guides/examples/live-examples/)
+
+- 
+      [Prototypes](https://amadeus4dev.github.io/developer-guides/examples/prototypes/)
+
+- 
+      [FAQ](https://amadeus4dev.github.io/developer-guides/faq/)
+
+- 
+      [Glossary](https://amadeus4dev.github.io/developer-guides/glossary/)
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Migration guides
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Migration guides
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Hotel search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      [Hotel booking](https://amadeus4dev.github.io/developer-guides/migration-guides/hotel-booking/)
+
+
+
+
+
+
+
+
+
+- 
+      [Hotel search](https://amadeus4dev.github.io/developer-guides/migration-guides/hotel-search/)
+
+- 
+      [Hotel booking](https://amadeus4dev.github.io/developer-guides/migration-guides/hotel-booking/)
+
+[Home](https://amadeus4dev.github.io/developer-guides/)
+[Quick start](https://amadeus4dev.github.io/developer-guides/quick-start/)
+[Pricing](https://amadeus4dev.github.io/developer-guides/pricing/)
+[Free test data collection](https://amadeus4dev.github.io/developer-guides/test-data/)
+[API keys](https://amadeus4dev.github.io/developer-guides/API-Keys/)
+- 
+
+
+
+
+
+
+
+
+
+
+
+    Authorization
+
+
+
+
+
+
+
+
+
+
+    Authorization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Table of contents
+
+
+
+
+
+    Requesting an access token
+
+
+
+
+
+
+    Response
+
+
+
+
+
+
+    Using the token
+
+
+
+
+
+  Managing tokens from your source code
+
+
+
+
+
+
+
+
+- 
+  Requesting an access token
+
+
+- 
+  Response
+
+
+- 
+  Using the token
+
+
+- 
+  Managing tokens from your source code
+
+
+- 
+      [Production](https://amadeus4dev.github.io/developer-guides/API-Keys/moving-to-production/)
+
+[Authorization](https://amadeus4dev.github.io/developer-guides/API-Keys/authorization/)
+- 
+  Requesting an access token
+
+
+- 
+  Response
+
+
+- 
+  Using the token
+
+
+- 
+  Managing tokens from your source code
+
+
+Requesting an access token
+Response
+Using the token
+Managing tokens from your source code
+[Production](https://amadeus4dev.github.io/developer-guides/API-Keys/moving-to-production/)
+[Rate limits](https://amadeus4dev.github.io/developer-guides/api-rate-limits/)
+[Pagination](https://amadeus4dev.github.io/developer-guides/pagination/)
+[Common errors](https://amadeus4dev.github.io/developer-guides/common-errors/)
+[API Tutorials](https://amadeus4dev.github.io/developer-guides/resources/)
+- 
+      [Flights](https://amadeus4dev.github.io/developer-guides/resources/flights/)
+
+- 
+      [Destination experiences](https://amadeus4dev.github.io/developer-guides/resources/destination-experiences/)
+
+- 
+      [Cars and Transfers](https://amadeus4dev.github.io/developer-guides/resources/cars-transfers/)
+
+- 
+      [Market insights](https://amadeus4dev.github.io/developer-guides/resources/market-insight/)
+
+- 
+      [Hotels](https://amadeus4dev.github.io/developer-guides/resources/hotels/)
+
+- 
+      [Itinerary management](https://amadeus4dev.github.io/developer-guides/resources/itinerary-managment/)
+
+[Flights](https://amadeus4dev.github.io/developer-guides/resources/flights/)
+[Destination experiences](https://amadeus4dev.github.io/developer-guides/resources/destination-experiences/)
+[Cars and Transfers](https://amadeus4dev.github.io/developer-guides/resources/cars-transfers/)
+[Market insights](https://amadeus4dev.github.io/developer-guides/resources/market-insight/)
+[Hotels](https://amadeus4dev.github.io/developer-guides/resources/hotels/)
+[Itinerary management](https://amadeus4dev.github.io/developer-guides/resources/itinerary-managment/)
+[Developer tools](https://amadeus4dev.github.io/developer-guides/developer-tools/)
+- 
+      [Node](https://amadeus4dev.github.io/developer-guides/developer-tools/node/)
+
+- 
+      [Python](https://amadeus4dev.github.io/developer-guides/developer-tools/python/)
+
+- 
+      [Java](https://amadeus4dev.github.io/developer-guides/developer-tools/java/)
+
+-
+
+[PHP](https://amadeus4dev.github.io/developer-guides/developer-tools/php/)
+
+- 
+      [OpenAPI Generator](https://amadeus4dev.github.io/developer-guides/developer-tools/openapi-generator/)
+
+- 
+      [Postman collection](https://amadeus4dev.github.io/developer-guides/developer-tools/postman/)
+
+- 
+      [Mock Server](https://amadeus4dev.github.io/developer-guides/developer-tools/mock-server/)
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    GraphQL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            GraphQL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    GraphQL wrapper for REST (Node)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    GraphQL wrapper for REST (Python)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      [OpenAPI to GraphQL converter](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-export/)
+
+
+
+
+
+
+
+
+
+- 
+      [GraphQL wrapper for REST (Node)](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-node/)
+
+- 
+      [GraphQL wrapper for REST (Python)](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-python/)
+
+- 
+      [OpenAPI to GraphQL converter](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-export/)
+
+[Node](https://amadeus4dev.github.io/developer-guides/developer-tools/node/)
+[Python](https://amadeus4dev.github.io/developer-guides/developer-tools/python/)
+[Java](https://amadeus4dev.github.io/developer-guides/developer-tools/java/)
+[PHP](https://amadeus4dev.github.io/developer-guides/developer-tools/php/)
+[OpenAPI Generator](https://amadeus4dev.github.io/developer-guides/developer-tools/openapi-generator/)
+[Postman collection](https://amadeus4dev.github.io/developer-guides/developer-tools/postman/)
+[Mock Server](https://amadeus4dev.github.io/developer-guides/developer-tools/mock-server/)
+[GraphQL](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/)
+- 
+      [GraphQL wrapper for REST (Node)](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-node/)
+
+- 
+      [GraphQL wrapper for REST (Python)](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-python/)
+
+- 
+      [OpenAPI to GraphQL converter](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-export/)
+
+[GraphQL wrapper for REST (Node)](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-node/)
+[GraphQL wrapper for REST (Python)](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-python/)
+[OpenAPI to GraphQL converter](https://amadeus4dev.github.io/developer-guides/developer-tools/graphql/rest-to-graphql-export/)
+[Examples and prototypes](https://amadeus4dev.github.io/developer-guides/examples/)
+- 
+      [Code examples](https://amadeus4dev.github.io/developer-guides/examples/code-example/)
+
+- 
+      [Interactive examples](https://amadeus4dev.github.io/developer-guides/examples/live-examples/)
+
+- 
+      [Prototypes](https://amadeus4dev.github.io/developer-guides/examples/prototypes/)
+
+[Code examples](https://amadeus4dev.github.io/developer-guides/examples/code-example/)
+[Interactive examples](https://amadeus4dev.github.io/developer-guides/examples/live-examples/)
+[Prototypes](https://amadeus4dev.github.io/developer-guides/examples/prototypes/)
+[FAQ](https://amadeus4dev.github.io/developer-guides/faq/)
+[Glossary](https://amadeus4dev.github.io/developer-guides/glossary/)
+[Migration guides](https://amadeus4dev.github.io/developer-guides/migration-guides/)
+- 
+      [Hotel search](https://amadeus4dev.github.io/developer-guides/migration-guides/hotel-search/)
+
+- 
+      [Hotel booking](https://amadeus4dev.github.io/developer-guides/migration-guides/hotel-booking/)
+
+[Hotel search](https://amadeus4dev.github.io/developer-guides/migration-guides/hotel-search/)
+[Hotel booking](https://amadeus4dev.github.io/developer-guides/migration-guides/hotel-booking/)
+- 
+  Requesting an access token
+
+
+- 
+  Response
+
+
+- 
+  Using the token
+
+
+- 
+  Managing tokens from your source code
+
+
+Requesting an access token
+Response
+Using the token
+Managing tokens from your source code
+
+# Authorizing your application
+
+Amadeus for Developers uses OAuth to authenticate access requests. OAuth generates an access token which grants the client permission to access a protected resource.
+
+```
+OAuth
+```
+
+
+```
+OAuth
+```
+
+
+```
+access token
+```
+
+The method to acquire a token is called grant. There are different types of OAuth grants. Amadeus for Developers uses the Client Credentials Grant.
+
+```
+OAuth grants
+```
+
+
+```
+Client Credentials Grant
+```
+
+## Requesting an access token
+Once you have created an app and received your API Key and  API Secret, you can generate an access token by sending a POST request to the authorization server:
+
+```
+API Key
+```
+
+
+```
+API Secret
+```
+
+
+```
+POST
+```
+
+[https://test.api.amadeus.com/v1/security/oauth2/token](https://test.api.amadeus.com/v1/security/oauth2/token)
+Information
+Remember that your API Key and  API Secret should be kept private. Read more about best practices for [secure API key storage](https://developers.amadeus.com/blog/best-practices-api-key-storage).
+
+```
+API Key
+```
+
+
+```
+API Secret
+```
+
+The body of the request is encoded as x-www-form-urlencoded, where the keys and values are encoded in key-value tuples separated by '&', with a '=' between
+the key and the value:
+
+```
+x-www-form-urlencoded
+```
+
+
+```
+grant_type
+```
+
+
+```
+client_credentials
+```
+
+
+```
+client_id
+```
+
+
+```
+API Key
+```
+
+
+```
+client_secret
+```
+
+
+```
+API Secret
+```
+
+Specify the type of the request using the content-type HTTP header with the value application/x-www-form-urlencoded.
+
+```
+content-type
+```
+
+
+```
+application/x-www-form-urlencoded
+```
+
+The following example uses cURL to request a new token:
+
+```
+cURL
+```
+
+
+```
+1
+2
+3
+```
+
+1
+2
+3
+
+```
+https://amadeus4dev.github.io/developer-guides/API-Keys/authorization/curl "https://test.api.amadeus.com/v1/security/oauth2/token" \
+     -H "Content-Type: application/x-www-form-urlencoded" \
+     -d "grant_type=client_credentials&client_id={client_id}&client_secret={client_secret}"
+```
+
+
+```
+https://amadeus4dev.github.io/developer-guides/API-Keys/authorization/curl "https://test.api.amadeus.com/v1/security/oauth2/token" \
+     -H "Content-Type: application/x-www-form-urlencoded" \
+     -d "grant_type=client_credentials&client_id={client_id}&client_secret={client_secret}"
+```
+
+
+```
+-X POST
+```
+
+
+```
+cURL
+```
+
+
+```
+cURL
+```
+
+
+```
+POST
+```
+
+## Response
+The authorization server will respond with a JSON object:
+
+```
+1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+```
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+```
+https://amadeus4dev.github.io/developer-guides/API-Keys/authorization/{
+    "type": "amadeusOAuth2Token",
+    "username": "foo@bar.com",
+    "application_name": "BetaTest_foobar",
+    "client_id": "3sY9VNvXIjyJYd5mmOtOzJLuL1BzJBBp",
+    "token_type": "Bearer",
+    "access_token": "CpjU0sEenniHCgPDrndzOSWFk5mN",
+    "expires_in": 1799,
+    "state": "approved",
+    "scope": ""
+}
+```
+
+
+```
+https://amadeus4dev.github.io/developer-guides/API-Keys/authorization/{
+    "type": "amadeusOAuth2Token",
+    "username": "foo@bar.com",
+    "application_name": "BetaTest_foobar",
+    "client_id": "3sY9VNvXIjyJYd5mmOtOzJLuL1BzJBBp",
+    "token_type": "Bearer",
+    "access_token": "CpjU0sEenniHCgPDrndzOSWFk5mN",
+    "expires_in": 1799,
+    "state": "approved",
+    "scope": ""
+}
+```
+
+
+```
+type
+```
+
+
+```
+amadeusOAuth2Token
+```
+
+
+```
+username
+```
+
+
+```
+application_name
+```
+
+
+```
+client_id
+```
+
+
+```
+API Key
+```
+
+
+```
+token_type
+```
+
+
+```
+Bearer
+```
+
+
+```
+access_token
+```
+
+
+```
+expires_in
+```
+
+
+```
+state
+```
+
+
+```
+approved
+```
+
+
+```
+expired
+```
+
+## Using the token
+Once the token has been retrieved, you can authenticate your requests to Amadeus Self-Service APIs.
+Each API call must contain the authorization HTTP header with the value Bearer {access_token}, where acess_token is the token you have just retrieved.
+
+```
+authorization
+```
+
+
+```
+Bearer {access_token}
+```
+
+
+```
+acess_token
+```
+
+The following example is a call to the Flight Check-in Links API to retrieve the check-in URL for Iberia (IB):
+
+```
+Flight Check-in Links
+```
+
+
+```
+IB
+```
+
+
+```
+1
+2
+```
+
+1
+2
+
+```
+https://amadeus4dev.github.io/developer-guides/API-Keys/authorization/curl "https://test.api.amadeus.com/v2/reference-data/urls/checkin-links?airline=IB" \
+     -H "Authorization: Bearer CpjU0sEenniHCgPDrndzOSWFk5mN"
+```
+
+
+```
+https://amadeus4dev.github.io/developer-guides/API-Keys/authorization/curl "https://test.api.amadeus.com/v2/reference-data/urls/checkin-links?airline=IB" \
+     -H "Authorization: Bearer CpjU0sEenniHCgPDrndzOSWFk5mN"
+```
+
+## Managing tokens from your source code
+
+To retrieve a token using your favourite programming language, send a POST request and parse the JSON response as in the cURL examples above.
+
+```
+POST
+```
+
+
+```
+JSON
+```
+
+
+```
+cURL
+```
+
+There are different strategies to maintain your token updated, like checking the time remaining until expiration before each API call or capturing the unauthorized error when the token expires. In both cases, you must request a new token.
+
+```
+unauthorized
+```
+
+To simplify managing the authentication process, you can use the [Amadeus for Developers SDKs](https://github.com/amadeus4dev) available on GitHub. The SDKs
+automatically fetch and store the access_token and set the headers in all API
+calls.
+
+```
+SDKs
+```
+
+
+```
+access_token
+```
+
+Example of initializing the client and authenticating with the Node SDK:
+
+```
+Node
+```
+
+
+```
+1
+2
+3
+4
+5
+6
+```
+
+1
+2
+3
+4
+5
+6
+
+```
+https://amadeus4dev.github.io/developer-guides/API-Keys/authorization/var Amadeus = require('amadeus');
+
+var amadeus = new Amadeus({
+  clientId: '[API Key]',
+  clientSecret: '[API Secret]'
+});
+```
+
+
+```
+https://amadeus4dev.github.io/developer-guides/API-Keys/authorization/var Amadeus = require('amadeus');
+
+var amadeus = new Amadeus({
+  clientId: '[API Key]',
+  clientSecret: '[API Secret]'
+});
+```
+
+You can then call the API. The following example is a call to the Flight Check-in Links API to retrieve the check-in URL for Iberia (IB):
+
+```
+Flight Check-in Links
+```
+
+
+```
+IB
+```
+
+
+```
+1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+```
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+```
+https://amadeus4dev.github.io/developer-guides/API-Keys/authorization/var Amadeus = require('amadeus');
+
+var amadeus = new Amadeus({
+  clientId: '[API Key]',
+  clientSecret: '[API Secret]'
+});
+
+amadeus.referenceData.urls.checkinLinks.get({
+  airlineCode : 'IB'
+}).then(function(response){
+  console.log(response.data);
+}).catch(function(responseError){
+  console.log(responseError.code);
+});
+```
+
+
+```
+https://amadeus4dev.github.io/developer-guides/API-Keys/authorization/var Amadeus = require('amadeus');
+
+var amadeus = new Amadeus({
+  clientId: '[API Key]',
+  clientSecret: '[API Secret]'
+});
+
+amadeus.referenceData.urls.checkinLinks.get({
+  airlineCode : 'IB'
+}).then(function(response){
+  console.log(response.data);
+}).catch(function(responseError){
+  console.log(responseError.code);
+});
+```
+
+[feedback form](https://forms.office.com/e/q71CrJKTk6)
+
+#### Cookie consent
+We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.
+- 
+
+
+
+          Google Analytics
+
+
+- 
+
+
+
+          GitHub
