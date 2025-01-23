@@ -3,7 +3,6 @@ const cors = require('cors');
 const bodyParser = require('body-parser');
 
 // Import des routes
-const reservationRoutes = require('./src/routes/reservationRoutes');
 const autocompleteRoutes = require('./src/routes/autocompleteRoutes');
 const flightRoutes = require('./src/routes/flightRoutes');
 
@@ -15,7 +14,6 @@ app.use(cors());
 app.use(bodyParser.json());
 
 // Routes
-app.use('/api/reservations', reservationRoutes);
 app.use('/api/autocomplete', autocompleteRoutes);
 app.use('/api/flights', flightRoutes);
 
